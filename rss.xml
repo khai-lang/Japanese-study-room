@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Japan Study</title>
+    <link>https://japanstudy.khaistory.com/</link>
+    <description>Explore the world of Japan studies through insightful articles and resources.</description>
+    <language>ko-kr</language>
+    <lastBuildDate>Mon, 12 Nov 2024 00:00:00 +0000</lastBuildDate>
+
+    <!-- 게시물 1 -->
+    <item>
+      <title>일본 문화 소개</title>
+      <link>https://japanstudy.khaistory.com/post1</link>
+      <description>일본의 전통 문화와 현대 문화의 특징을 소개합니다.</description>
+      <pubDate>Mon, 05 Nov 2024 08:00:00 +0000</pubDate>
+      <guid>https://japanstudy.khaistory.com/post1</guid>
+    </item>
+    
+    <!-- 게시물 2 -->
+    <item>
+      <title>일본어 학습 가이드</title>
+      <link>https://japanstudy.khaistory.com/post2</link>
+      <description>초보자를 위한 일본어 학습 팁과 리소스를 제공합니다.</description>
+      <pubDate>Tue, 06 Nov 2024 10:00:00 +0000</pubDate>
+      <guid>https://japanstudy.khaistory.com/post2</guid>
+    </item>
+
+  </channel>
+</rss>
